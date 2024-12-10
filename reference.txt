@@ -7,11 +7,22 @@ Css animated bg: https://freefrontend.com/css-animated-backgrounds/
 Dynamic js background: https://freefrontend.com/javascript-background-effects/
 AI website generator: https://v0.dev
 AI website generator: https://bolt.new
+Fonts: https://fonts.google.com
+css glass: https://css.glass/
+css gradient: https://cssgradient.io/
+https://animista.net/
 
-Inspiration for frontend: https://www.frontendplanet.com/inspiration/
-                          https://www.awwwards.com/
-                          https://www.founderjar.com/inspiration/best-website-designs/
-                          https://alvarotrigo.com/blog/animated-backgrounds-css/
+Inspiration for frontend: 
+
+https://www.frontendplanet.com/inspiration/
+https://www.awwwards.com/
+https://www.founderjar.com/inspiration/best-website-designs/
+https://alvarotrigo.com/blog/animated-backgrounds-css/
+https://discover.hubpages.com/technology/JavaScript-Animated-Background
+https://kprverse.com/
+https://dunks1980.com/
+https://itssharl.ee/fr
+https://discover.hubpages.com/technology/JavaScript-Animated-Background
 
 backend: 
 https://tensormvjce.github.io/portal
