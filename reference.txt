@@ -1,0 +1,19 @@
+Reference for building projects:
+
+frontend:
+Particles.js : https://github.com/VincentGarreau/particles.js/
+Random dots: https://codepen.io/dis-craft/pen/dPbXQzz
+Css animated bg: https://freefrontend.com/css-animated-backgrounds/
+Dynamic js background: https://freefrontend.com/javascript-background-effects/
+AI website generator: https://v0.dev
+AI website generator: https://bolt.new
+
+Inspiration for frontend: https://www.frontendplanet.com/inspiration/
+                          https://www.awwwards.com/
+                          https://www.founderjar.com/inspiration/best-website-designs/
+                          https://alvarotrigo.com/blog/animated-backgrounds-css/
+
+backend: 
+https://tensormvjce.github.io/portal
+https://console.firebase.com
+for forms: https://formspree.io
