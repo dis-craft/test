@@ -12,7 +12,7 @@ css glass: https://css.glass/
 css gradient: https://cssgradient.io/
 https://animista.net/
 see through effect hover reveal: https://www.youtube.com/shorts/tlv4jayQchc
-
+css tips etc: https://www.youtube.com/@slayingthedragon
 Inspiration for frontend: 
 
 https://www.frontendplanet.com/inspiration/
