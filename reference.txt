@@ -3,18 +3,31 @@ Reference for building projects:
 frontend:
 Particles.js : https://github.com/VincentGarreau/particles.js/
 Random dots: https://codepen.io/dis-craft/pen/dPbXQzz
-Css animated bg: https://freefrontend.com/css-animated-backgrounds/
-Dynamic js background: https://freefrontend.com/javascript-background-effects/
+
+Css animated bg: https://freefrontend.com/css-animated-backgrounds/ //imp
+
+Dynamic js background: https://freefrontend.com/javascript-background-effects/ //imp
+
 AI website generator: https://v0.dev
 AI website generator: https://bolt.new
 Fonts: https://fonts.google.com
 css glass: https://css.glass/
+https://cssbuttons.io/
 css gradient: https://cssgradient.io/
+https://alvarotrigo.com/blog/css-text-animations/
 https://animista.net/
+https://uiverse.io/
 see through effect hover reveal: https://www.youtube.com/shorts/tlv4jayQchc
 css tips etc: https://www.youtube.com/@slayingthedragon
-Inspiration for frontend: 
+canva.com
+https://designstripe.com/search/illustrations?ref=cssgradient-nav
+cursor follower
+
+
 progress bar.
+shuffling text.
+sound effect on action
+
 https://www.frontendplanet.com/inspiration/
 https://www.awwwards.com/
 https://www.founderjar.com/inspiration/best-website-designs/
