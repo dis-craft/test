@@ -14,7 +14,9 @@ Fonts: https://fonts.google.com
 css glass: https://css.glass/
 https://cssbuttons.io/
 css gradient: https://cssgradient.io/
+https://neumorphism.io/#e0e0e0
 https://alvarotrigo.com/blog/css-text-animations/
+https://webdeasy.de/en/css-buttons-en/
 https://animista.net/
 https://uiverse.io/
 see through effect hover reveal: https://www.youtube.com/shorts/tlv4jayQchc
