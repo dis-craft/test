@@ -14,7 +14,7 @@ https://animista.net/
 see through effect hover reveal: https://www.youtube.com/shorts/tlv4jayQchc
 css tips etc: https://www.youtube.com/@slayingthedragon
 Inspiration for frontend: 
-
+progress bar.
 https://www.frontendplanet.com/inspiration/
 https://www.awwwards.com/
 https://www.founderjar.com/inspiration/best-website-designs/
